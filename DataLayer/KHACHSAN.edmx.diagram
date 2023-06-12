@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f4a74881698a4c54b03a951d4472b5ba" Name="Diagram1" ZoomLevel="71">
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_KhachHang" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_LoaiPhong" Width="1.5" PointX="1.25" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_Phong" Width="1.5" PointX="6" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_Phong_ThietBi" Width="1.5" PointX="8.625" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_SanPham" Width="1.5" PointX="4.125" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_ThietBi" Width="1.5" PointX="8.625" PointY="10.625" IsExpanded="true" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_Phong_tb_LoaiPhong" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_Phong_ThietBi_tb_Phong" ManuallyRouted="false" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_Phong_ThietBi_tb_ThietBi" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_Func" Width="1.5" PointX="8.625" PointY="2.375" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_CongTy" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_DonVi" Width="1.5" PointX="3.625" PointY="6.625" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_DonVi_tb_CongTy" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_DonVi_tb_CongTy1" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_Tang" Width="1.5" PointX="1.625" PointY="10.875" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_Phong_tb_Tang" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_Param" Width="1.5" PointX="13" PointY="3.625" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_DatPhong" Width="1.5" PointX="6.375" PointY="1.25" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_DatPhong_tb_CongTy" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_DatPhong_tb_DonVi" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_DatPhong_tb_KhachHang" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_DatPhong_CT" Width="1.5" PointX="11.5" PointY="10.75" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_DatPhong_CT_tb_DatPhong" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_DatPhong_CT_tb_Phong" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_SYS_GROUP" Width="1.5" PointX="15.625" PointY="4" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_SYS_REPORT" Width="1.5" PointX="8.875" PointY="13.875" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_SYS_USER" Width="1.5" PointX="11.125" PointY="4" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_User_tb_CongTy" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_DatPhong_tb_User" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_User_tb_DonVi" />
+        <EntityTypeShape EntityType="QLHOTELSModel.V_USER_NOTIN_GROUP" Width="1.5" PointX="1.625" PointY="13.875" />
+        <EntityTypeShape EntityType="QLHOTELSModel.V_USER_IN_GROUP" Width="1.5" PointX="4.25" PointY="13.75" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_SYS_RIGHT_REP" Width="1.5" PointX="11.375" PointY="1.75" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_SYS_RIGHT" Width="1.5" PointX="13.375" PointY="0.75" />
+        <EntityTypeShape EntityType="QLHOTELSModel.V_FUNC_SYS_RIGHT" Width="1.5" PointX="14.125" PointY="11.125" />
+        <EntityTypeShape EntityType="QLHOTELSModel.tb_DatPhong_SanPham" Width="1.5" PointX="13.875" PointY="6.25" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_DatPhong_SanPham_tb_DatPhong" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_DatPhong_SanPham_tb_DatPhong_CT" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_DatPhong_SanPham_tb_Phong" />
+        <AssociationConnector Association="QLHOTELSModel.FK_tb_DatPhong_SanPham_tb_SanPham" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

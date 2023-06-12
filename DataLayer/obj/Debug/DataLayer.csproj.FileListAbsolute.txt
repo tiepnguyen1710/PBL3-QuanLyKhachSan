@@ -1,0 +1,12 @@
+E:\Kì 4\PBL3\QLHOTELS\DataLayer\bin\Debug\DataLayer.dll
+E:\Kì 4\PBL3\QLHOTELS\DataLayer\bin\Debug\DataLayer.pdb
+E:\Kì 4\PBL3\QLHOTELS\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+E:\Kì 4\PBL3\QLHOTELS\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\Kì 4\PBL3\QLHOTELS\DataLayer\obj\Debug\DataLayer.dll
+E:\Kì 4\PBL3\QLHOTELS\DataLayer\obj\Debug\DataLayer.pdb
+E:\Kì 4\PBL3\QLHOTELS\DataLayer\bin\Debug\DataLayer.dll.config
+E:\Kì 4\PBL3\QLHOTELS\DataLayer\bin\Debug\EntityFramework.dll
+E:\Kì 4\PBL3\QLHOTELS\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Kì 4\PBL3\QLHOTELS\DataLayer\bin\Debug\EntityFramework.xml
+E:\Kì 4\PBL3\QLHOTELS\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Kì 4\PBL3\QLHOTELS\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete

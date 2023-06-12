@@ -1,0 +1,15 @@
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\obj\Debug\BussinessLayer.csproj.AssemblyReference.cache
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\obj\Debug\BussinessLayer.pdb
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\bin\Debug\DataLayer.dll
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\bin\Debug\DataLayer.pdb
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\bin\Debug\EntityFramework.dll
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\bin\Debug\DataLayer.dll.config
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\bin\Debug\EntityFramework.xml
+E:\Kì 4\PBL3\QLHOTELS\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
